@@ -87,4 +87,4 @@ Cada elemento do grupo deve fazer os seus próprios commits.
 
 ## Grupo
 
-- (nome e número de cada elemento)
+- Francisco Capitão, Pedro Madureira, Rafael Madureira 
