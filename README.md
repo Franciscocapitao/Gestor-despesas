@@ -87,4 +87,6 @@ Cada elemento do grupo deve fazer os seus próprios commits.
 
 ## Grupo
 
-- Francisco Capitão, Pedro Madureira, Rafael Madureira 
+- Francisco Capitão Al2025168823
+- Rafael Madureira  Al2025158796
+- Pedro Madureira  Al2025158785 
